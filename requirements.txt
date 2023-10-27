@@ -1,0 +1,6 @@
+imutils==0.5.4
+matplotlib
+numpy
+opencv_python
+scikit_learn
+tensorflow
